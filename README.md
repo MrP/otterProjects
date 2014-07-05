@@ -1,4 +1,4 @@
-otterProjects
+Otter Projects
 =============
 
-Otter Projects website
+<a href="https://rawgit.com/MrP/otterProjects/wwwroot/index.html">Otter Projects website</a>
