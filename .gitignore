@@ -26,3 +26,6 @@ node_modules
 
 .c9
 .c9revisions
+.c9/
+/.c9
+/.c9/
