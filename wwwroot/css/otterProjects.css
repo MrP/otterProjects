@@ -34,6 +34,15 @@ MAIN {
     max-width: 800px;
     margin: 0 auto;
 }
+SECTION{
+    clear: both;
+    padding: 20px 0;
+}
+SECTION IMG{
+    float: right;
+    max-width: 200px;
+    margin-left: 20px;
+}
 FOOTER {
     padding: 20px;
     background-color: #333;
