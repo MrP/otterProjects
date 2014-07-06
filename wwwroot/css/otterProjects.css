@@ -42,6 +42,11 @@ SECTION IMG{
     max-width: 200px;
     margin-left: 20px;
 }
+SECTION:nth-child[even] IMG{
+    float: left;
+    margin-left: 0;
+    margin-righ: 20px;
+}
 FOOTER {
     padding: 20px;
     background-color: #333;
