@@ -28,7 +28,6 @@ HEADER {
     margin-right: 1vw;
 }
 MAIN {
-    height: 50%;
     flex: 1 0 auto;
     padding: 20px;
     max-width: 800px;
