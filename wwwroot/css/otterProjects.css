@@ -38,14 +38,15 @@ SECTION{
     padding: 20px 0;
 }
 SECTION IMG{
-    float: right;
     max-width: 200px;
+}
+SECTION:nth-child(even) IMG{
+    float: right;
     margin-left: 20px;
 }
-SECTION:nth-child[even] IMG{
+SECTION:nth-child(odd) IMG{
     float: left;
-    margin-left: 0;
-    margin-righ: 20px;
+    margin-right: 20px;
 }
 FOOTER {
     padding: 20px;
