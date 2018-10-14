@@ -1,4 +1,4 @@
 Otter Projects
 =============
 
-<a href="https://rawgit.com/MrP/otterProjects/master/wwwroot/index.html">Otter Projects website</a>
+<a href="https://mrp.github.io/otterProjects/wwwroot/index.html">Otter Projects website</a>
